@@ -108,11 +108,11 @@
     let clicsNo = 0;
 
     const mensajes = [
-      "¿Segura? 🥺",
+      "¿Segura bebecita? 🥺",
       "Piénsalo bien 💔",
-      "Elige otra vez 😢",
+      "Elige otra vez pofa 😢",
       "No me rompas el corazón 😭",
-      "Última oportunidad 💘"
+      "Última oportunidad por mi papoi💘"
     ];
 
     const imagenesNo = [
